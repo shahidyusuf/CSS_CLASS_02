@@ -1,9 +1,30 @@
-body {
+/* body {
     background-color: #ffde03;
 }
 .primary {
     color: blue;
 }
 .secondary {
-    color: #a09090;
+background-color: magenta;
+    color: black;
+opacity: 0.5;
+} */
+
+body {
+    font-family: sans-serif;
+    /* line-height: 60px; */
+    /* font-weight: lighter; */
+    /* font-style: italic; */
+    font-stretch: normal;
+    /* font-size: 20px; */
+    /* -moz-animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1); */
 }
+ul {
+    font-style: oblique;
+    font-stretch: condensed;
+    font-weight: lighter;
+    font-size: 2em;
+}
+/* h1 {
+    font-weight: 100;
+} */
